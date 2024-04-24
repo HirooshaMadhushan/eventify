@@ -1,0 +1,32 @@
+
+.button {
+    text-align: center; /* Align buttons to the center */
+}
+
+.button .btn {
+    width: 150px; /* Set a fixed width for the buttons */
+    margin: 5px; /* Add some space between buttons */
+}
+
+.main{
+    /* align-items: center; */
+    
+    box-shadow: inset;
+    
+}
+
+.custom-card {
+    width: 250px;
+    height: 100px;
+   
+}
+
+.fixed-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px; /* Adjust width as needed */
+    height: 100vh; /* Adjust height as needed */
+    background-color: #fff; /* Adjust background color as needed */
+    /* Add any other styling properties as needed */
+}
